@@ -1,0 +1,16 @@
+/* CenteredTabs.css */
+.tabs-container {
+    width: 100%;
+    background-color: white;
+    margin-top: 20px !important;
+    padding-right: 50px !important;
+  }
+  
+  .tab {
+    color: black !important;
+  }
+  
+  .tab.Mui-selected {
+    color: rgb(169, 92, 202) !important;
+  }
+  
